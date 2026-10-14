@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "title": "Personal Portfolio Website",
+        "description": "A responsive portfolio website built to showcase my skills, projects, and journey as an IT student. Features dynamic content loading and a clean, modern design.",
+        "technologies": ["HTML5", "CSS3", "JavaScript"],
+        "role": "Full Developer — designed the layout, wrote all HTML/CSS/JS code, and integrated APIs",
+        "screenshot": "images/portfolio-preview.jpg",
+        "github": "https://github.com/gemmalynbacudo/gemmalynbacudo.github.io",
+        "demo": "https://gemmalynbacudo.github.io/",
+        "category": "web"
+    },
+    {
+        "id": 2,
+        "title": "Student Grade Calculator",
+        "description": "A simple web tool that helps NVSU students compute their course grades instantly. User-friendly interface and instant calculations.",
+        "technologies": ["HTML5", "CSS3", "JavaScript"],
+        "role": "Developer — created the interface and programmed the calculation logic",
+        "screenshot": "images/calculator-preview.jpg",
+        "github": "https://github.com/gemmalynbacudo/grade-calculator",
+        "demo": "",
+        "category": "web"
+    },
+    {
+        "id": 3,
+        "title": "Python Number Guessing Game",
+        "description": "A console-based game where the user tries to guess a randomly generated number. Includes hints and attempt counter.",
+        "technologies": ["Python"],
+        "role": "Solo Developer — wrote the complete program",
+        "screenshot": "images/game-preview.jpg",
+        "github": "https://github.com/gemmalynbacudo/guessing-game",
+        "demo": "",
+        "category": "app"
+    }
+]
